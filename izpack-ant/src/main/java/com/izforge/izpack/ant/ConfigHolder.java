@@ -1,3 +1,4 @@
+/*Test***************************
 /*
 /*
  * IzPack - Copyright 2001-2008 Julien Ponge, All Rights Reserved.
